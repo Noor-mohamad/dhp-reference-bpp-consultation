@@ -55,7 +55,7 @@ This extension is managing all the support related API.
 This extension is a basically a patch for Razorpay_Magento to work both website and Beckn network.
 This extension doesn't contain any API.
 
-### 7. How to add person details
+### 8. How to add person details
 1. First add fulfillment type from 
 Store >> Configuration >> Beckn Protocol Configuration >> Fulfillment configuration
 
